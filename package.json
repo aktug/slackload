@@ -1,0 +1,18 @@
+{
+  "name": "slackload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "slack.js",
+  "scripts": {
+    "start": "node slack.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aktug Urun (aktugurun@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^3.0.0",
+    "dotenv": "^6.1.0",
+    "request": "^2.88.0"
+  }
+}
